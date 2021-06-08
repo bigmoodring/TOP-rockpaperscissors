@@ -56,7 +56,7 @@ Divide
 
 Some small steps to get started:
 
-    - Write function to make computer choose a value
+    - Write function to make computer choose a value // DONE!
     - Write function to get input from the user
     - Write function to check player value against computer value
 
